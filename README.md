@@ -58,7 +58,7 @@ LIMIT 10;
 - **Career Growth:** The results include a variety of positions, from **Data Analyst** to senior leadership roles such as **Director of Analytics**, illustrating multiple career advancement paths within analytics.
 - **Remote Work Advantage:** All roles in this analysis are remote, showing that remote opportunities can offer highly competitive compensation.
 
-![Top Paying Data Analyst Jobs](./Images/Top%20paying%20jobs.png)
+![Top Paying Data Analyst Jobs](/SQL_Portfolio/Images/Top%20paying%20jobs.png)
 
 *Figure 1. Bar chart showing the annual salaries of the top 10 highest-paying remote Data Analyst jobs in 2023. The visualization was created from the SQL query results.*
 ## 2. Skills Required for the Top Paying Jobs
@@ -98,8 +98,7 @@ ORDER BY salary_year_avg DESC;
 - **Python** and **Tableau** were also common requirements, emphasizing the importance of programming and data visualization.
 - Cloud technologies and analytical tools were present in several job postings, suggesting that employers value modern data platforms alongside traditional analytics skills.
 - The results show that high-paying Data Analyst roles typically require a combination of database, programming, and visualization skills rather than expertise in a single tool.
-![Skills Required for Top Paying Jobs](./Images/Top%20paying%20skill_count.png)
-
+![Skills Required for Top Paying Jobs](/SQL_Portfolio/Images/Top%20paying%20skill_count.png)
 *Figure 2. Most frequently requested skills across the top 10 highest-paying remote Data Analyst jobs in 2023.*
  
 ## 3. Most In-Demand Skills for Data Analysts
