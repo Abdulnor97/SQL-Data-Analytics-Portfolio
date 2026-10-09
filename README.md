@@ -12,7 +12,7 @@ As an aspiring Data Analyst, I wanted to understand the current job market and s
 
 The dataset contains job titles, salaries, locations, remote work availability and required technical skills. Using SQL, I looked for trends that could help future Data Analysts decide which skills to prioritize. 
 
-The questions I wanted to answer through my SQL queries were:
+The five guiding questions from the course were:
 
 * What are the top-paying data analyst jobs?
 
