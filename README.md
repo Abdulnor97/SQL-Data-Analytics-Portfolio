@@ -1,18 +1,29 @@
 # **Introduction**
-The demand for Data Analysts continues to grow as organizations increasingly rely on data to make informed business decisions. This project explores the 2023 Data Analyst job market using SQL to uncover valuable insights into salary trends and the technical skills employers are seeking.
 
-Through a series of SQL queries, I analyzed job postings to identify the highest-paying Data Analyst roles, the most in-demand skills, and the technologies associated with higher salaries. The project also examines the overlap between skills that are both highly demanded and well compensated, providing practical insights for anyone preparing for a career in data analytics. 🔍 SQL queries? Check them out here: [project_sql](./project_sql/)
+This project explores the 2023 Data Analyst job market using SQL. I wanted to find out which roles pay the most, which skills employers ask for most often, and which skills are linked to higher salaries.
+
+Using a series of PostgreSQL queries on job posting data, I looked at the top-paying Data Analyst roles, the skills they require, the most in-demand skills, and the skills that are both in demand and well paid.
+
+🔍 SQL queries? Check them out here: [SQL_Portfolio](./SQL_Portfolio)
+
 # **Background**
-As an aspiring Data Analyst, I wanted to better understand the current job market and identify which technical skills provide the greatest career opportunities. Rather than relying on assumptions, I analyzed real job posting data from 2023 to answer important career-related questions.
 
-The dataset, provided through my SQL learning course, contains information about job titles, salaries, locations, remote work availability, and required technical skills. By analyzing this data with SQL, I was able to uncover trends that can help future Data Analysts prioritize the right skills and technologies.
+As an aspiring Data Analyst, I wanted to understand the current job market and see which technical skills open the most opportunities. Instead of relying on assumptions, I analyzed real job posting data from 2023.
+
+The dataset contains job titles, salaries, locations, remote work availability and required technical skills. Using SQL, I looked for trends that could help future Data Analysts decide which skills to prioritize. 
 
 The questions I wanted to answer through my SQL queries were:
-What are the top-paying data analyst jobs?
-What skills are required for these top-paying jobs?
-What skills are most in demand for data analysts?
-Which skills are associated with higher salaries?
-What are the most optimal skills to learn?
+
+* What are the top-paying data analyst jobs?
+
+* What skills are required for these top-paying jobs?
+
+* What skills are most in demand for data analysts?
+
+* Which skills are associated with higher salaries?
+
+* What are the most optimal skills to learn?
+
 # 🛠️ Tools & Technologies
 
 This project relied on several tools and technologies to perform data analysis and document the results.
@@ -276,3 +287,12 @@ Overall, this project demonstrates how SQL can be used to transform raw job post
 
 # 💭 Closing Thoughts
 This project was a valuable opportunity to practice SQL using real-world job market data. It strengthened my technical skills while improving my ability to analyze data and communicate insights effectively. I look forward to continuing to build projects that solve real business problems and showcase my growth as a Data Analyst.
+
+
+
+---
+
+## 👨‍💻 Author
+
+- **Developer:** Abdulkadir Nor Salah
+- **Learning Resource:** Based on the SQL for Data Analytics course by Luke Barousse.
